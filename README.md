@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jannickcode
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning C#
+- 👋 Console.WriteLine("Hi, I'm @Jannickcode!"); 
+- 👀 // I’m interested in Music Production, Djing and Coding
+- 🌱 // I’m currently learning C# with Visual Studio
 
 <!---
 Jannickcode/Jannickcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
